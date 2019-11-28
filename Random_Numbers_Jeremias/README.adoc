@@ -12,5 +12,5 @@ ifdef::env-github[]
 endif::[]
 
 = Descrição do Projeto
-[->](https://github.com/JeremiasNS/Random_Numbers/blob/master/Random_Numbers_Corrigido/README.adoc)
+[Link](https://github.com/JeremiasNS/Random_Numbers/blob/master/Random_Numbers_Corrigido/README.adoc)
 
