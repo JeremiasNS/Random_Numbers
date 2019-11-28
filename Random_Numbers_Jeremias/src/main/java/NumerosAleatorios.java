@@ -1,6 +1,6 @@
 /**
  *
- * @author aluno
+ * @author jeremias
  */
 public interface NumerosAleatorios {
 
